@@ -1,0 +1,3 @@
+C:/Users/Axel Yoc/Documents/Pogramas Clion Universidad/Proyecto Clinica Medica/Clinica_Medica/cmake-build-debug/CMakeFiles/Clinica_Medica.dir
+C:/Users/Axel Yoc/Documents/Pogramas Clion Universidad/Proyecto Clinica Medica/Clinica_Medica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Axel Yoc/Documents/Pogramas Clion Universidad/Proyecto Clinica Medica/Clinica_Medica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
