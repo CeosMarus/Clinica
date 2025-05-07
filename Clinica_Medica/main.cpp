@@ -82,6 +82,7 @@ int main() {
         std::cerr << "⚠️ Error en ejecución: " << e.what() << std::endl;
         return 1;
     }
-
+//Este es un mensaje para validar los cambios en el GitHub
+    std::cout<<"hello Wordl";
     return 0;
 }

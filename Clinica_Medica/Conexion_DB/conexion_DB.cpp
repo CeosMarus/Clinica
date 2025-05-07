@@ -25,11 +25,11 @@ bool conexion_DB::conectar(const std::string& dsn_unused, const std::string& usu
     // Cadena completa, ignorando los parámetros dsn/usuario/contrasena
     std::string connStr =
         "Driver={ODBC Driver 17 for SQL Server};"//ingresamos el codigo de nuestro odbc
-        "Server=DESKTOP-8PGVTQL;"//ingresamos el servidor de SQL
+        "Server=DESKTOP-BR789CH\\MSSQLSERVERELCEO;"//ingresamos el servidor de SQL
         "Database=Clinica;"//nombre de la base de datos
-        "Trusted_Connection=Yes;"//ponemos que si para que nos haga la conexxion sin problemas
-        //"Uid=sa;"
-        //"Pwd=;"
+        //"Trusted_Connection=Yes;"//ponemos que si para que nos haga la conexxion sin problemas
+        "Uid=sa;"
+        "Pwd=12345678;"
         "Encrypt=yes;"
         "TrustServerCertificate=yes;";
 
